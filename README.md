@@ -20,7 +20,7 @@
 <a href="https://github.com/msifran" target="blank">
 <img src="https://github.com/msifran?style=flat-square" alt="tryshape pull-requests"/>
 </a>
-
+</p>
 
 
 
