@@ -22,7 +22,7 @@ Check out the live demo of PhishGuard: [PhishGuard Live Demo]([https://github.co
 
 Liked it? Please give a ⭐️ to <b>PhishGuard</b>.
 
-### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
+/* ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐) */
 
 ## ✨ Features
 
