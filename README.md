@@ -6,21 +6,7 @@
 
 <h4 align="center">PhishGuard is an open-source cyber awareness game that empowers users to defend against phishing, malware, and social engineering attacks.</h4>
 
-<p align="center">
 
-<a href="https://github.com/msifran" target="blank">
-<img src="[https://github.com/msifran]" alt="tryshape forks"/>
-</a>
-<a href="https://github.com/msifran" target="blank">
-<img src="https://github.com/msifran?style=flat-square" alt="tryshape stars"/>
-</a>
-<a href="https://github.com/msifran" target="blank">
-<img src="https://github.com/msifran?style=flat-square" alt="tryshape issues"/>
-</a>
-<a href="https://github.com/msifran" target="blank">
-<img src="https://github.com/msifran?style=flat-square" alt="tryshape pull-requests"/>
-</a>
-</p>
 
 
 
