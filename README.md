@@ -52,9 +52,6 @@ That's All!!! Now open the website in localhost.
 - [CSS](https://en.m.wikipedia.org/wiki/CSS)
 - [JAVASCRIPT](https://en.m.wikipedia.org/wiki/JavaScript)
 
-## 🛡️ License
-This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
-
 
 
 ## 🙏 Support
